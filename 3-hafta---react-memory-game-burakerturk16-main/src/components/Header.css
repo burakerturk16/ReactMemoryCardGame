@@ -1,0 +1,27 @@
+.Header {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 3rem;
+  padding: 0 1rem;
+}
+
+.Header-btn {
+  position: absolute;
+  top: 80px;
+  padding: 15px;
+  background-color: white;
+ 
+  border-radius: 3px;
+
+}
+
+button:hover
+{
+  background-color: tomato;
+ 
+}
+.Header-tries {
+  margin: 0;
+}
